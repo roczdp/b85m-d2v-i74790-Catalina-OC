@@ -14,6 +14,8 @@ Catalina 10.15.6
 
 基于OpenCore 0.5.9制作
 
+机型 iMac14,1
+
 
 
 Dvi显示输出正常
